@@ -4,6 +4,5 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesbatista28&show_icons=true&locale=en&layout=compact"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=inesbatista28&show_icons=true&locale=en"/>
 </div>
-<img src="C:\Users\iness\OneDrive\Ambiente de Trabalho\\lindo" style="display: block; margin: 0 auto;">
 
 
